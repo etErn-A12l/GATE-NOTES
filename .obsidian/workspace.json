@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9ca7ea2a4378904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Organization & Architecture/01 Introduction of COA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4d95fc75c314d37b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization & Architecture/General.md",
+                "file": "Computer Organization & Architecture/02 Memory Concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "603068ff23872f3f",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization & Architecture/01 Introduction of COA.md",
+                "file": "Computer Organization & Architecture/02 Memory Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Organization & Architecture/01 Introduction of COA.md",
+                "file": "Computer Organization & Architecture/02 Memory Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Organization & Architecture/01 Introduction of COA.md"
+                "file": "Computer Organization & Architecture/02 Memory Concept.md"
               }
             }
           },
@@ -169,15 +158,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9ca7ea2a4378904",
+  "active": "4d95fc75c314d37b",
   "lastOpenFiles": [
-    "Computer Organization & Architecture/02 Memory Concept.md",
     "Computer Organization & Architecture/General.md",
+    "Excalidraw/Drawing 2024-08-13 09.45.24.excalidraw.md",
     "Computer Organization & Architecture/01 Introduction of COA.md",
+    "Computer Organization & Architecture/02 Memory Concept.md",
     "Computer Organization & Architecture/Images/co-13.png",
     "Computer Organization & Architecture/Images/Screenshot from 2024-08-13 10-50-13.png",
     "README.md",
-    "Excalidraw/Drawing 2024-08-13 09.45.24.excalidraw.md",
     "Excalidraw",
     "piecesdb.json",
     "README.md.md",
