@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6797ee47e5b0f2ae",
+        "id": "e3a0193cd3d587d1",
         "type": "tabs",
         "children": [
           {
-            "id": "14e5ba3e75043fe9",
+            "id": "b9ca7ea2a4378904",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Computer Organization & Architecture/01 Introduction of COA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d95fc75c314d37b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Organization & Architecture/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Computer Organization & Architecture/01 Introduction of COA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Computer Organization & Architecture/01 Introduction of COA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Computer Organization & Architecture/01 Introduction of COA.md"
               }
             }
           },
@@ -153,14 +165,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "pieces-for-developers:Pieces For Developers": false
+      "pieces-for-developers:Pieces For Developers": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14e5ba3e75043fe9",
+  "active": "b9ca7ea2a4378904",
   "lastOpenFiles": [
+    "Computer Organization & Architecture/02 Memory Concept.md",
+    "Computer Organization & Architecture/General.md",
     "Computer Organization & Architecture/01 Introduction of COA.md",
-    "README.md.md",
+    "Computer Organization & Architecture/Images/co-13.png",
+    "Computer Organization & Architecture/Images/Screenshot from 2024-08-13 10-50-13.png",
     "README.md",
+    "Excalidraw/Drawing 2024-08-13 09.45.24.excalidraw.md",
+    "Excalidraw",
+    "piecesdb.json",
+    "README.md.md",
     "Computer Network/2. Flow Control Methods/1. Delays in Computer Network.md",
     "Computer Network/1. IP Subnetting Supernetting/1. Introduction.md",
     "Computer Network/Specials.md",
@@ -168,7 +188,6 @@
     "Computer Network/1. IP Subnetting Supernetting",
     "Welcome.md",
     "Computer Network/2. Flow Control Methods",
-    "Computer Network",
-    "piecesdb.json"
+    "Computer Network"
   ]
 }

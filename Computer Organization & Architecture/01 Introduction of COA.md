@@ -74,10 +74,10 @@ If an interrupt occurs when Instruction "A" was being executed / about to execut
 
 Memory can be classified into two types
 
-1. Word Addressable
-	Each cell size is one word
-1. Byte Addressable
-	Each cell size is one byte
+1. ==Word Addressable==
+	Each cell size is one word. 
+1. ==Byte Addressable==
+	Each cell size is one byte. Cell size of this memory is $8$ $bits$
 
 $1  Word = 32  bits = 4  bytes$ (Generally assumed)
 
